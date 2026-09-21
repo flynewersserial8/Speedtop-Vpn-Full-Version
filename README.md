@@ -270,4 +270,4 @@ This repository serves as the official landing page for SpeedTop VPN. The softwa
 **Get the most recent version of SpeedTop VPN today!**
 
 ---
-**Last updated:** 2026-09-20 22:02:20 UTC
+**Last updated:** 2026-09-21 00:37:08 UTC
